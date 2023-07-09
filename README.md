@@ -9,3 +9,4 @@
 ## Source Code
 
 - [Source Code ตอนที่ 2](/intro-to-react-part-2/)
+- [Source Code ตอนที่ 3](/intro-to-react-part-3/)
